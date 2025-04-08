@@ -259,37 +259,91 @@ Nicolas comme coordinateur du projet
 rileggi intro tesi per capirci meglio-->
 
 ---
-layout: image-right
-image: https://www.revue20.org/images/entete-p.jpg
----
 
 # Théorie de l'éditorialisation
 
-> L’éditorialisation est l’ensemble des dynamiques qui constituent l’espace numérique et qui permettent, à partir de cette constitution, l’émergence du sens. Ces dynamiques sont le résultat de forces et d’actions différentes qui déterminent après coup l’apparition et l’identification d’objets particuliers (personnes, communautés, algorithmes, plateformes…).
+> L’éditorialisation est l’ensemble des dynamiques qui constituent l’espace numérique et qui permettent, à partir de cette constitution, l’émergence du sens. Ces dynamiques sont le résultat de forces et d’actions différentes qui déterminent après coup l’apparition et l’identification d’objets particuliers (personnes, communautés, algorithmes, plateformes…). 
 
-Tout objet, individu, collectivité n'existe que parce qu'il est modélisé, présenté et structuré dans l'espace numérique.
+Source : Pour une théorie de l’éditorialisation (Vitali-Rosati 2020)
+
+<!--Tout objet, individu, collectivité n'existe que parce qu'il est modélisé, présenté et structuré dans l'espace numérique.
 
 Toujours liées à des environnements techniques spécifiques (l'environnement numérique est prescriptif)
 
-En ce sens, l’éditorialisation peut être pensée comme l’ensemble des conditions matérielles de médiation qui déterminent l’émergence d’un monde. 
+En ce sens, l’éditorialisation peut être pensée comme l’ensemble des conditions matérielles de médiation qui déterminent l’émergence d’un monde.-->
+<div style="position: fixed; bottom: 10vh; left: 80%; transform: translateX(-50%); display: flex; gap: 3rem;">
+<img src="marcello.jpg" style="width: 250px; height: auto; border-radius: 12px;" />
+</div>
 
-<small>Source : Pour une théorie de l’éditorialisation (2020)</small>
-
-<!--https://umontreal.scholaris.ca/server/api/core/bitstreams/9c7f6bbd-7be6-463b-93f5-06d511e01914/content-->
-
----
-layout: image-right
-image: https://www.revue20.org/images/entete-p.jpg
 ---
 
 # Communautés, pratiques, protocoles
 
+- Protocoles éditoriales en tant que pratiques négociées et adoptées systématiquement par des communautés/collectifs spécifiques
 
+- Protocoles reconfigurent les relations numériques.
+
+Source : [https://these.nicolassauret.net/](https://these.nicolassauret.net/)
+
+<div style="position: fixed; bottom: 15vh; left: 70%; transform: translateX(-50%); display: flex; gap: 3rem;">
+<img src="nicolas.jpg" style="width: 250px; height: auto; border-radius: 12px;" />
+</div>
 
 ---
 layout: image-right
-image: https://www.revue20.org/images/entete-p.jpg
+image: calendrier.png
 ---
+
+# Articulation du projet
+
+Enjeu conversationnel : revue en tant que espace/outil pour mettre en place des conversations tout au long de la chaîne éditoriale
+
+1. **Production des contenus** : technologies numériques - production de contenus - propositions de bonnes pratiques
+
+2. **Validation des contenus** : technologies numériques - acceptation, citation, dialogue avec l'auteur
+
+3. **Diffusion des contenus** : technologies numériques - accessibilité et visibilité des contenus scientifiques
+
+---
+layout: image-right
+image: stylo.png
+---
+
+# Livrables 
+Prototypes, expérimentations et ateliers qui se poursuivent dans le cadre de Revue3.0
+
+- Stylo (éditeur de texte sémantique)
+  - Évaluation ouverte avec Hypothesis
+  - Indexation par mots clés contrôlés
+  - Chaînes de publications
+- Analyse de gros corpus de revues
+- Atelier de réflexion et travail autour du langage 
+
+[https://www.revue20.org/le-projet/experimentations/](https://www.revue20.org/le-projet/experimentations/)
+
+---
+
+# Dispositifs de gestion
+
+- 📍 Coordination montréalaise
+- 🌐 Site internet comme vitrine-dispositif assurant la cohérence de la recherche
+- 💬 Mattermost pour une communication plus fluide
+
+<div style="position: fixed; bottom: 18vh; left: 38%; transform: translateX(-50%); display: flex; gap: 3rem;">
+  <img src="montreal.jpg" style="width: 250px; height: auto; border-radius: 12px;" />
+  <img src="revue20.png" style="width: 250px; height: auto; border-radius: 12px;" />
+  <img src="mattermost.png" style="width: 250px; height: auto; border-radius: 12px;" />
+</div>
+
+<!--
+Gouvernance souple : la coordination assure à la fois le suivi direct et la gestion opérationnelle du projet.
+
+Relations directes : la direction sollicite directement les partenaires et co-chercheur.e.s, ce qui favorise la fluidité des échanges.
+
+Limites : cette souplesse peut toutefois poser des problèmes en cas de conflits, notamment en l’absence d’un système clair de légitimation ou de protection des décisions. La coordination générale doit ainsi justifier chaque décision prise, sans cadre formel qui en garantisse la validité.
+
+Enjeux de **communication** : cruciaux pour le bon fonctionnement du projet (cf. les difficultés rencontrées avec CyberGéo).
+-->
 
 ---
 

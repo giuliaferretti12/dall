@@ -305,8 +305,8 @@ Enjeu conversationnel : revue en tant que espace/outil pour mettre en place des 
 3. **Diffusion des contenus** : technologies numériques - accessibilité et visibilité des contenus scientifiques
 
 ---
-layout: image-right
-image: stylo.png
+layout: iframe-right
+url: https://www.revue20.org/le-projet/experimentations/
 ---
 
 # Livrables 
@@ -343,6 +343,78 @@ Relations directes : la direction sollicite directement les partenaires et co-ch
 Limites : cette souplesse peut toutefois poser des problèmes en cas de conflits, notamment en l’absence d’un système clair de légitimation ou de protection des décisions. La coordination générale doit ainsi justifier chaque décision prise, sans cadre formel qui en garantisse la validité.
 
 Enjeux de **communication** : cruciaux pour le bon fonctionnement du projet (cf. les difficultés rencontrées avec CyberGéo).
+-->
+
+---
+layout: iframe-right
+url: https://revue30.org/
+class: custom-iframe-content
+---
+
+# Revue.0
+
+## Du prototype à la mise en œuvre à grande échelle
+
+<!--ambition-->
+- Multiplications des projets
+- Pluralité des savoirs <!--questionnement des critères de scientificité d'une revue, à niveau de formats, contenus (cfr. recherche-création)-->
+- Pluralité de formes de production, diffusion et légitimation de la connaissance
+- Pour que les revues savantes puissent rester les protagonistes des savoirs de demain
+
+---
+layout: image-right
+url: background.svg
+---
+
+## Donc...
+
+- La temporalité du projet s’étend au-delà de sa durée officielle
+- Ramification et multiplication des projets
+- Multiplication du nombre des partenaires et de co-chercheur.euse.s
+- Une évolution constante de la composition de l'équipes, à tous les niveaux du projet
+
+---
+
+# Nouveaux Axes/chantiers de recherche
+
+---
+
+<!--@add : historique des demandes, changement du projet dans ce temps d'« attente »-->
+
+---
+layout: iframe-right
+url: https://baserow.ecrituresnumeriques.ca/form/jsFu69p4JYhZtzcJisO4nAVja2OgLwRkdqxM32a7_v0
+---
+
+# Des prototypes aux projets formellement définis
+
+<small>Face à cette multiplication, les prototypes ont laissé place à des projets, _définis formellement_ selon les critères suivants :</small>
+
+- <small>Au moins un partenaire externe et deux co-chercheurs</small>
+- <small>Au moins un axe de recherche spécifique</small>
+- <small>Chaque projet doit produire au minimum :</small>
+  - <small>Un livrable technique</small>
+  - <small>Deux livrables d'ordre théorique</small>
+- <small> Un **formulaire** pour proposer des nouveaux projets</small> →
+
+
+Mais, **Dans la pratique...**
+
+---
+
+| **Axe 1 Écrire** | **Axe 2 Transmettre** | **Axe 3 Découvrir** | **Transversaux** |
+|--------------|-------------------|-----------------|----------|
+| Suggestion automatique de références bibliographiques | Modélisation des revisions | Protocoles annotations Sens Public |  Refonte métadonnées Stylo |
+| Référentiel des flux éditoriaux | Expérimentations avec IEML dans Stylo/ Isidore | Modélisation du site | Export Stylo (sites revues) |
+| Pink my Stylo | Création automatique d'un contexte sémantique dans les articles Stylo | Révision bibliographique avec IA | Export Imaginations |
+| Expérimentations avec Cosma | | | Modélisation du site Revue3.0 |
+
+<!--
+À partir des projets pilotes menés dans le cadre de Revue3.0
+
+- Édition avec Stylo
+- Indexation de mots clés
+- évaluation ouverte (cfr. Thèse de Nicolas)
 -->
 
 ---

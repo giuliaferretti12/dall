@@ -3,7 +3,7 @@
 theme: seriph
 # random image from a curated Unsplash collection by Anthony
 # like them? see https://unsplash.com/collections/94734566/slidev
-background: background.svg
+background: /background.svg
 # some information about your slides (markdown enabled)
 title: "Revue3.0 : Écrire, Transmettre,"
 # apply unocss classes to the current slide
@@ -363,7 +363,7 @@ class: custom-iframe-content
 
 ---
 layout: image-right
-image: background.svg
+image: /background.svg
 ---
 
 ## Donc...
@@ -481,7 +481,7 @@ layout: center
 
 ---
 layout: image-right
-image: background-3.svg
+image: /background-3.svg
 ---
 
 ## Des axes aux projets
@@ -629,10 +629,107 @@ Un dispositif organisationnel
 </div>
 
 ---
+layout: section
+---
 
-## Gouvernance -- dans la pratique...
+# Gouvernance -- dans la pratique...
 
+---
+layout: image-left
+image: /background-4.svg
+---
 
+# Coordination des projets ou de GT
+
+- Unité fondamentale : projets
+- Chaque projet à un coordinateur qui fait le point entre la coordination générale et les responsables d'axe
+- Production de rapport de projet
+- Fiche de poste en train d'être produite
+
+<!--tâches concrètes, pour responsabiliser la personne : moment de la rédaction du rapport est un moment de clarification de son rôle auprès des directeurs d'axe et des autres membres du projet ; important également pour la documentation-->
+
+---
+layout: image-left
+image: /background-3.svg
+---
+
+# Direction d'axe
+
+- Important pour la cohérence du projet 
+- Fonction « politique »
+- Production de rapports d'axe
+- Fiche de poste en train d'être produite
+
+---
+layout: image-left
+image: /background.svg
+---
+
+## Comité exécutif
+
+- 1 representant·e par axe, 1 representant·e des étudiant·e·s, un represent·e des partenaires, directeur, coordination générale
+- Rencontre au moins 3 fois par an (dont au moins une fois avant la réunion plénière)
+- Discussions sont à l'origine d'un rapport global du partenariat
+
+---
+layout: image-left
+image: /background-2.svg
+---
+
+## Comité scientifique
+
+- Organe consultatif
+- Exprime ses opinions par rapport aux rapports global du partenariat
+
+---
+layout: image-left
+image: /background-3.svg
+---
+
+## Assembée plénière
+
+- Une fois par an
+- Participée par tous les membres du projet
+- Validation du budget
+- Validation du calendrier de l'année
+- Nouvelles propositions
+- Vitrine et occasion de rencontre/nouvelle collaborations
+<!--Esapce pour présenter les activités du partenariat (projets, GT, conférences, etc.), espace pour écouter les revues, espace pour table ronde sur des tématiques EDI et d'autres thématiques proposées par le chercheur·euse·s, moment pour un atelier technique/bricolage sur les formats de balisage/chaînes éditoriales, -->
+
+---
+layout: image-left
+image: /background-4.svg
+---
+
+## Comité formation et diffusion
+
+- Calendrier des activités de formation 
+- Calendrier des activités de diffusion
+
+## Comité EDID
+
+- Charte EDID
+- Groupes de travail
+- Ateliers et tables rondes
+
+---
+layout: image-left
+image: /background-2.svg
+---
+
+## Les défis 
+
+- Archivage/pérennisation des outils/plateformes/documentation produites <!--formats de texte brut-->
+- Mutabilité de l'équipe de coordination et des équipes à la direction de nos partenaires
+- Assurer activités et rencontres à distance, dans un monde où les messages et les courriels sont surchargés
+- Clarifier les rôles de chacun·e, ainsi que le lien entre ces rôles, la recherche générale du partenariat et des projets spécifiques
+
+---
+layout: cover
+background: /background.svg
+---
+
+# Merci !
 
 ---
 

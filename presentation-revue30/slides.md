@@ -363,7 +363,7 @@ class: custom-iframe-content
 
 ---
 layout: image-right
-url: background.svg
+image: background.svg
 ---
 
 ## Donc...
@@ -374,19 +374,132 @@ url: background.svg
 - Une évolution constante de la composition de l'équipes, à tous les niveaux du projet
 
 ---
+layout: two-cols
+---
 
-# Nouveaux Axes/chantiers de recherche
+<div style="position: relative; padding: 2rem;">
+  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: gray; opacity: 0.2; border-radius: 1rem; z-index: 0;"></div>
+  <h1>Revue2.0</h1>
+  <b>Production des contenus</b>
+  <p><small>Quels sont les outils
+d'écriture utilisés ? Comment ils façonnent-ils la pensée et l'argumentation
+scientifique ?</small></p>
+  <b>Validation des contenus</b>
+  <p><small>Comment le processus de validation de connaissance est-il affecté – au plan épistémologique et institutionnel – par les technologies numériques ?</small></p>
+  <b>Diffusion des contenus</b>
+  <p><small>Comment les publications en ligne sont-elles rendues accessibles ? Comment leur confère-t-on de la visibilité ? Quels
+publics lisent ces contenus ?</small></p>
+  </div>
+
+::right:: 
+
+<div style="position: relative; padding: 2rem;">
+  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: orange; opacity: 0.2; border-radius: 1rem; z-index: 0;"></div>
+
+  <div style="position: relative; z-index: 1;">
+    <h1>Revue3.0</h1>
+    <b>Écrire</b>
+    <p><small>Comment les formes matérielles d'écriture affectent-elle la pensée et la recherche ?</small></p>
+    <b>Transmettre</b>
+    <p><small>Comment les modes de circulation et de légitimation des contenus savants conditionnent-ils la pensée et la recherche ?</small></p>
+    <b>Découvrir</b>
+    <p><small>Comment les formes concrètes de lecture et d'appropriation des publications scientifique affectent-elles la pensée et la recherche ?</small></p>
+  </div>
+</div>
+
+<!--
+Écrire : 
+Reprendre la main sur l'écrit ; repenser nos pratiques ; protocoles d'écriture et légitimité (IA?) ; le collectif
+
+Transmettre : 
+Circulation ; enrichissement sémantique ; transformation/traduction (incommensurabilité ?) ; web sémantique ; IEML
+
+Découvrir : Découvrabilité (performativité du texte découvrable -- qui se présente même à qui ne le cherchait pas, néologisme propre du numérique) ; pratiques de révision ; pratiques d'annotation bibliographique ; la modélisation des actions/stratégies adoptées pour favoriser la découvrabilité des contenus.
+
+De manière générale : De manière générale, on passe des enquêtes de terrain et prototypes (Revue2.0) aux grandes questions assumant le positionnement matérialiste de manière plus claire et radicale (Reve3.0).
+-->
+---
+layout: center
+---
+
+# Vers le financement
+
+Ce n’était pas un parcours sans détours...
 
 ---
 
-<!--@add : historique des demandes, changement du projet dans ce temps d'« attente »-->
+# Le temps de « l' attente »
+
+- Chaînes d'éditions, Single Source Publishing → Fabrique
+- Modèles et des savoir → Enjeux d'équité, diversité, inclusion, décolonisation (EDID)
+- LLMs, "IA" comme modélisation de l'intelligence
+- Production de subalternes
+- Pratiques de révision, remédiation
+- Approches du nouveau matérialisme
+
+<div style="position: fixed; top: 60%; left: 0; width: 80vw; height: auto; z-index: 9999;">
+  <img src="historique-demandes.png" style="width: 100%; height: 100%; object-fit: cover;" />
+</div>
+
+---
+
+# L'évolution du projet face aux critiques du CRSH
+
+## Question de rhétorique ?
+
+S'agit-il d'un travail « utile » ? Caractère aléatoire de l'attribution des financements.
+
+- **« La production d'outils, c'est pas de la recherche »**
+  - Qu'est-ce que que une infrastructure de recherche ?
+    - Selon le CRSH : Conditions préalables à la recherche
+    - Selon Revue3.0 : Rôle des outils dans la détermination de savoir -- le savoir emerge de dispositifs matériels et déterminés
+
+- **« Votre méthodologie n'est pas précise, les solutions techniques proposées ne sont pas originales »**
+  - Le notre est un projet de recherche
+    - Nous nous intéressons aux formes de modélisation du monde dans les environnements numériques
+    - Les grands modèles de langage (LLM) sont des formes spécifiques de modélisation de l’intelligence
+
+---
+
+# L'évolution du projet face aux critiques du CRSH
+
+## Question de fonds
+
+- **« Votre engagement EDID n'est pas pris au sérieux »**
+  - La diversité dans la composition actuelle de l'équipe 
+  - Il n'existe pas un savoir, notre projet s'engage davantage à la remise en question des critères de scientificité, à la diversité des formes et formats de production de savoir
+
+- **« Votre cadre théorique n'est pas assez développé, vous proposez une »**
+  - Lien entre éditorialisation et nouveau matérialisme
+  - Précisions sur notre positionnement épistémologique : un effort pour expliciter le lien entre pratique et recherche, expérimentation et théorie
+
+---
+layout: center
+---
+
+# Une fois le financement obtenu... faire le projet
+
+---
+layout: image-right
+image: background-3.svg
+---
+
+## Des axes aux projets
+
+Faciliter les **fonctionnements** spécifiques des équipes de travail
+
+Valoriser la **diversité** des contributions, intérêts, expertises
+
+Valoriser la diversité de **modèles épistémologiques** des revues partenaires
+
+> <small>Dans le cadre de l’édition scientifique, chaque outil, chaque plateforme, chaque protocole ou pratique véhiculent une vision du monde particulière. Il est essentiel de reconnaître et valoriser cette spécificité, que ce soit dans les compositions des équipes, les méthodes de travail, les systèmes de communication et d'archivage, etc.</small>
 
 ---
 layout: iframe-right
 url: https://baserow.ecrituresnumeriques.ca/form/jsFu69p4JYhZtzcJisO4nAVja2OgLwRkdqxM32a7_v0
 ---
 
-# Des prototypes aux projets formellement définis
+# Projets formels : non plus des prototypes
 
 <small>Face à cette multiplication, les prototypes ont laissé place à des projets, _définis formellement_ selon les critères suivants :</small>
 
@@ -415,7 +528,104 @@ Mais, **Dans la pratique...**
 - Édition avec Stylo
 - Indexation de mots clés
 - évaluation ouverte (cfr. Thèse de Nicolas)
+
+1. Tous les projets ne s’inscrivent pas naturellement dans un axe de recherche.
+2. Il ne s’agit pas d’un simple problème d’alignement entre projets et axes,
+mais plutôt d’un décalage entre les intérêts de recherche des responsables d’axes et la nature même de certains projets.
+3. Cela concerne en particulier les projets issus de Revue2.0, notamment ceux autour de l’outil Stylo.
 -->
+---
+layout: center
+---
+
+# Au-delà des livrables : Groupes de travail
+
+Modification survenue progressivement, à partir des rencontres avec les membres du partenariat.
+
+<div style="position: relative; padding: 2rem;">
+  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: blue; opacity: 0.2; border-radius: 1rem; z-index: 0;"></div>
+<div v-click>
+  <h2>À la suite de la <a href="https://revue30.org/documents/compte-rendu-premieree-assemblee-pleiniere/" target="_blank">première réunion plénière du partenariat</a></h2>
+  <p>🤖 Atelier « Recherche, édition et IA »</p>
+</div>
+
+<br>
+
+<div v-click>
+  <h2>En réaction à la <a href="https://revue30.org/documents/rencontre-large-revues/" target="_blank">rencontre large des revues</a></h2>
+  <p>🌎 Groupe de travail sur les enjeux de décolonisation du savoir</p>
+  <p>✍️ Groupe de travail sur la visibilité des évaluateur·ice·s</p>
+  <p>🎨 Groupe de travail sur les formes et formats de la recherche</p>
+</div>
+</div>
+
+<!--Dopo il lancio del partenariato : è emersa la preoccupazione dei membri nei confronti dell'impatto di metodi computazionali per la produzione di conoscenze. 
+
+Durante l'incontro delle riviste, ci siamo trovati di fronte a 3 esigenze fondamentali delle riviste
+1. la difficoltà di "accettare" delle proposte scientifiche di persone provenienti dal Sud del mondo/di dottorandi/o da milieux non accademici (come nel caso degli ingegneri di ricerca in Francia)  => rimettere piuttosto in questione i nostri termini di scientificità => glossario per osservare in che modo certi termini (come quello di pubblicazione, sapere, etc.) sono definiti all'interno del sud del mondo => obiettivo di includere nella riflessione delle riviste che provengono dal Sud Globale
+
+2. la difficoltà di trovare "évaluateurs" per le riviste in scienze umane: si tratta di un tipo di compito poco valorizzato nel milieux de la recherche : 
+riflessioni sul ruolo che tali valutatori apportano alla conoscenza.
+=> stato dell'arte sulle riflessioni sul tema
+=> una serie di conversazioni con gli evaluateurs
+=> una serie di atelier con le riviste per parlare della questione
+=> un sito/documento che raccoglie qualche cosiglio/bonnes pratiques et le risorse bibliografiche
+
+3. la difficoltà di trovare finanziamenti per delle riviste che adottano forme di pubblicazioni che non rispecchiano i criteri di scientificità del CRSH (come nel caso di MuseMedusa) => progetto per dopo
+-->
+
+---
+layout: section
+---
+
+# Maintenir la cohérence face à la multiplication
+
+## Centralisation ?
+
+---
+layout: two-cols
+---
+
+# Enjeux
+
+<div style="position: relative; padding: 2rem;">
+<ol>
+  <li><span style="background-color: #A6C8FF; padding: 0.2em; border-radius: 5px;">Visibilité, valorisation, découvrabilité</span></li> <!-- blu pastello pallido -->
+  <li><span style="background-color: #F9E59F; padding: 0.2em; border-radius: 5px;">Cohérence de la recherche</span></li> <!-- giallo pastello pallido -->
+  <li><span style="background-color: #F7A7A7; padding: 0.2em; border-radius: 5px;">Documentation et archivage</span></li> <!-- rosso pastello pallido -->
+  <li><span style="background-color: #A6E1A1; padding: 0.2em; border-radius: 5px;">Information des membres</span></li> <!-- verde pastello pallido -->
+  <li><span style="background-color: #A1D8D8; padding: 0.2em; border-radius: 5px;">Espaces de discussion</span></li> <!-- verde acqua pastello pallido -->
+  <li><span style="background-color: #D3A9F7; padding: 0.2em; border-radius: 5px;">Connaissance des activités et intérêts de recherche des autres membres</span></li> <!-- viola pastello pallido -->
+</ol>
+</div>
+
+::right::
+
+# Dispositifs
+
+<div style="position: relative; padding: 2rem;">
+<ul>
+  <li>Site du projet : <span style="background-color: #A6C8FF; padding: 0.2em; border-radius: 5px;">1</span> <span style="background-color: #F9E59F; padding: 0.2em; border-radius: 5px;">2</span> <span style="background-color: #F7A7A7; padding: 0.2em; border-radius: 5px;">3</span> <span style="background-color: #A6E1A1; padding: 0.2em; border-radius: 5px;">4</span></li> 
+  <li>Discourse : <span style="background-color: #A6C8FF; padding: 0.2em; border-radius: 5px;">1</span> <span style="background-color: #A1D8D8; padding: 0.2em; border-radius: 5px;">5</span></li>
+  <li>Liste de diffusion<!--newsletter + formulaire pour les membres--> : <span style="background-color: #A6E1A1; padding: 0.2em; border-radius: 5px;">4</span> <span style="background-color: #A1D8D8; padding: 0.2em; border-radius: 5px;">5</span> <span style="background-color: #D3A9F7; padding: 0.2em; border-radius: 5px;">6</span></li> <!-- rosso pastello pallido -->
+  <li>Mattermost : <span style="background-color: #A1D8D8; padding: 0.2em; border-radius: 5px;">5</span></li> <!-- seulement pour les membres de l'équipe de coordination de l'UdeM, système utilisé dans le cadre de la CRCEN-->
+  <li>GitLab : <span style="background-color: #F9E59F; padding: 0.2em; border-radius: 5px;">2</span> <span style="background-color: #F7A7A7; padding: 0.2em; border-radius: 5px;">3</span></li> <!-- verde acqua pastello pallido -->
+  <li>Zotero : <span style="background-color: #F7A7A7; padding: 0.2em; border-radius: 5px;">3</span> <span style="background-color: #D3A9F7; padding: 0.2em; border-radius: 5px;">6</span></li> <!-- publications accéssibles via le site -->
+</ul>
+</div>
+
+
+<!--
+Aussi : chaque projet peut prévoir un système propre en interne
+-->
+
+---
+
+## Gouvernance
+
+<div style="position: fixed; bottom: 10vh; left: 80%; transform: translateX(-50%); display: flex; gap: 3rem;">
+<img src="gouvernance.png" style="width: 250px; height: auto; border-radius: 12px;" />
+</div>
 
 ---
 

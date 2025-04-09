@@ -64,7 +64,7 @@ Quelques données
 - Avant du concurs : appui d'un établissement
 
 <div style="position: relative; width: 100%; height: 100vh;">
-    <img src="crsh-logo.jpeg" style="position: absolute; width: 40%; height: auto; left: 55%; top: 0%;" />
+    <img src="/crsh-logo.jpeg" style="position: absolute; width: 40%; height: auto; left: 55%; top: 0%;" />
 </div>
 
 ---
@@ -272,7 +272,7 @@ Toujours liées à des environnements techniques spécifiques (l'environnement n
 
 En ce sens, l’éditorialisation peut être pensée comme l’ensemble des conditions matérielles de médiation qui déterminent l’émergence d’un monde.-->
 <div style="position: fixed; bottom: 10vh; left: 80%; transform: translateX(-50%); display: flex; gap: 3rem;">
-<img src="marcello.jpg" style="width: 250px; height: auto; border-radius: 12px;" />
+<img src="/marcello.jpg" style="width: 250px; height: auto; border-radius: 12px;" />
 </div>
 
 ---
@@ -286,7 +286,7 @@ En ce sens, l’éditorialisation peut être pensée comme l’ensemble des cond
 Source : [https://these.nicolassauret.net/](https://these.nicolassauret.net/)
 
 <div style="position: fixed; bottom: 15vh; left: 70%; transform: translateX(-50%); display: flex; gap: 3rem;">
-<img src="nicolas.jpg" style="width: 250px; height: auto; border-radius: 12px;" />
+<img src="/nicolas.jpg" style="width: 250px; height: auto; border-radius: 12px;" />
 </div>
 
 ---
@@ -330,9 +330,9 @@ Prototypes, expérimentations et ateliers qui se poursuivent dans le cadre de Re
 - 💬 Mattermost pour une communication plus fluide
 
 <div style="position: fixed; bottom: 18vh; left: 38%; transform: translateX(-50%); display: flex; gap: 3rem;">
-  <img src="montreal.jpg" style="width: 250px; height: auto; border-radius: 12px;" />
-  <img src="revue20.png" style="width: 250px; height: auto; border-radius: 12px;" />
-  <img src="mattermost.png" style="width: 250px; height: auto; border-radius: 12px;" />
+  <img src="/montreal.jpg" style="width: 250px; height: auto; border-radius: 12px;" />
+  <img src="/revue20.png" style="width: 250px; height: auto; border-radius: 12px;" />
+  <img src="/mattermost.png" style="width: 250px; height: auto; border-radius: 12px;" />
 </div>
 
 <!--
@@ -438,7 +438,7 @@ Ce n’était pas un parcours sans détours...
 - Approches du nouveau matérialisme
 
 <div style="position: fixed; top: 60%; left: 0; width: 80vw; height: auto; z-index: 9999;">
-  <img src="historique-demandes.png" style="width: 100%; height: 100%; object-fit: cover;" />
+  <img src="/historique-demandes.png" style="width: 100%; height: 100%; object-fit: cover;" />
 </div>
 
 ---
@@ -625,14 +625,14 @@ Aussi : chaque projet peut prévoir un système propre en interne
 Un dispositif organisationnel
 
 <div style="display: flex; justify-content: center; align-items: center; height: 64vh; position: relative;">
-  <img src="gouvernance.png" style="max-width: 90%; height: auto; border-radius: 12px;" />
+  <img src="/gouvernance.png" style="max-width: 90%; height: auto; border-radius: 12px;" />
 </div>
 
 ---
 
 ## Gouvernance -- dans la pratique...
 
-CE
+
 
 ---
 

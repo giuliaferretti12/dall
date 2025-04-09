@@ -622,10 +622,17 @@ Aussi : chaque projet peut prévoir un système propre en interne
 ---
 
 ## Gouvernance
+Un dispositif organisationnel
 
-<div style="position: fixed; bottom: 10vh; left: 80%; transform: translateX(-50%); display: flex; gap: 3rem;">
-<img src="gouvernance.png" style="width: 250px; height: auto; border-radius: 12px;" />
+<div style="display: flex; justify-content: center; align-items: center; height: 64vh; position: relative;">
+  <img src="gouvernance.png" style="max-width: 90%; height: auto; border-radius: 12px;" />
 </div>
+
+---
+
+## Gouvernance -- dans la pratique...
+
+CE
 
 ---
 
